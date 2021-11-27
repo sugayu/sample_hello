@@ -1,0 +1,4 @@
+# Example Package
+
+* Introdcution
+This is a simple example package. You can use [[https://guides.github.com/features/mastering-markdown/][Github-flavored Markdown]] to write your content.
