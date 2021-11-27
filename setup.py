@@ -21,7 +21,8 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     package_dir={"": "sample_hello"},
-    packages=setuptools.find_packages(where="sample_hello"),
+    packages=['sample_hello'],
+    # setuptools.find_packages(where="sample_hello"),
     entry_points={
         'console_scripts': ['pysample_hello = sample_hello.sample_hello:main']
     },
