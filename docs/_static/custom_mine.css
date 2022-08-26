@@ -1,0 +1,16 @@
+div .results {
+    display: block;
+    background: #f8f8f8;
+    border:1px solid #e1e4e5;
+    overflow-x:auto;
+    margin:1px 0 24px;
+    /* white-space:pre; */
+    padding:12px;
+}
+
+div .results p {
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,Courier,monospace;
+    font-size: 12px;
+    line-height: 1.4;
+    margin:0;
+}

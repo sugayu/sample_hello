@@ -10,7 +10,13 @@ Welcome to sample_hello_test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   quickstart
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Modules:
+
+   modules
 
 Indices and tables
 ==================
